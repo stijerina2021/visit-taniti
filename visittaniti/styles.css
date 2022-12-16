@@ -1216,6 +1216,10 @@ body {
     text-decoration: none;
     color: black;
   }
+
+  .bgimg a:hover{
+    opacity: .75;
+  }
   
   /* Position text in the top-left corner */
   .topleft {
